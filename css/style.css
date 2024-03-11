@@ -1,0 +1,17 @@
+div h3{
+    color: pink;
+}
+:not(p)
+p>#id{
+    color: gray;
+}
+:not(div)
+p{
+    color: red;
+}
+:not(h3)
+p{
+    color: green;
+}p.class{
+    color: yellow;
+}
